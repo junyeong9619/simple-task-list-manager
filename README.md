@@ -8,6 +8,10 @@ A client emits a command event for the server, and the server emits a response e
 * __ls__ - List the current tasks
 * __add__ - To add a new task
 * __delete__ - delete to delete a task
+
+### To Run
+> node client.js
 <br />
+
 
 **_*From Pluralsight Course with Samer Buna_**
